@@ -70,10 +70,10 @@ Cub3D uses `.cub` files to define the game maps. A typical map file includes:
 
 - **Textures:**  
   Paths to texture files for walls in different directions. Example:  
-  `NO ./textures/north.xpm`  
-  `SO ./textures/south.xpm`  
-  `WE ./textures/west.xpm`  
-  `EA ./textures/east.xpm`
+  `NO ./textures/north.png`  
+  `SO ./textures/south.png`  
+  `WE ./textures/west.png`  
+  `EA ./textures/east.png`
 
 - **Colors:**  
   RGB values for the floor and ceiling colors. Example:  
