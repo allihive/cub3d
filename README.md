@@ -1,6 +1,6 @@
 # Cub3D
 
-Welcome to **Cub3D** a.k.a Cute3d! 🎀
+Welcome to **Cub3D** a.k.a Cute3D! 🎀
 
 This project is part of the 42(Hive Helsinki) curriculum, aiming to create a dynamic 3D maze experience inspired by classic games like Wolfenstein 3D. It utilizes raycasting techniques to render a 3D perspective within a 2D map.
 
